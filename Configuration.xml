@@ -225,6 +225,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

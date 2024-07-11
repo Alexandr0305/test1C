@@ -2,7 +2,13 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
 		<Metadata name="Catalog.Пользователи" id="f447560a-a366-4817-898e-fdd18bfca183" configVersion="f0533d95d1f39b4eb9da0631b35e47dc00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="c5bd3850-e0f7-4bfd-85d5-f9206e361b80" configVersion="d6071f5525ab5f41b539bbddb6b6990b00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="388b21af-88ce-4f35-b874-639d5b63e54b" configVersion="fd191454b731cf4880909ad1dd22cb4600000000">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Пол" id="5ed449fd-4d5d-47aa-9f09-dcce30e0e3c5"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ФИО" id="61608304-c93e-42e9-b5a7-81bb47077684"/>
+		</Metadata>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="f0005128-4999-4bcc-b208-54b1432e7097" configVersion="54f72155adcb2a4da386af8382f3db4b00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="f0005128-4999-4bcc-b208-54b1432e7097.0" configVersion="ef520d495d9ebb46bc589d213156a49500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c5bd3850-e0f7-4bfd-85d5-f9206e361b80" configVersion="f13ebddb5ab01446808a8920cdbbc24500000000"/>
 		<Metadata name="Language.Русский" id="57e12517-c5dd-4c8c-ae88-7968dd2802ea" configVersion="e2b556428a55b544bacbea277af082bd00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
