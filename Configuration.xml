@@ -224,6 +224,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>ОбщегоНазначения</CommonModule>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>Контрагенты</Catalog>
