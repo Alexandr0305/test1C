@@ -6,6 +6,10 @@
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="e060098a-61af-4139-ac95-9a7272fe3aef"/>
 		</Metadata>
 		<Metadata name="Catalog.Контрагенты.ObjectModule" id="25866cae-48aa-4554-b765-7514be86f972.0" configVersion="cb4b01eee9bd2849bf919c152591319600000000"/>
+		<Metadata name="Catalog.Номенклатура" id="76f4d34e-be25-4367-8f1b-f88adb983452" configVersion="7a2c412228cb524dba17c7cd74baccc900000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.Цена" id="84146114-e60e-48e9-9d52-070f05fae92f"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ПолноеНаименование" id="fc2f1710-19b1-4485-b99e-eb3d0e4a5b57"/>
+		</Metadata>
 		<Metadata name="Catalog.Пользователи" id="f447560a-a366-4817-898e-fdd18bfca183" configVersion="f0533d95d1f39b4eb9da0631b35e47dc00000000"/>
 		<Metadata name="Catalog.ФизическиеЛица" id="388b21af-88ce-4f35-b874-639d5b63e54b" configVersion="fd191454b731cf4880909ad1dd22cb4600000000">
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Пол" id="5ed449fd-4d5d-47aa-9f09-dcce30e0e3c5"/>
@@ -14,7 +18,7 @@
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="f0005128-4999-4bcc-b208-54b1432e7097" configVersion="54f72155adcb2a4da386af8382f3db4b00000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="f0005128-4999-4bcc-b208-54b1432e7097.0" configVersion="ef520d495d9ebb46bc589d213156a49500000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначения" id="d21e9af0-4b3e-47d2-ba62-7c77784aecd5" configVersion="3388f02c227ff042ac4e090a0d56df1e00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="c5bd3850-e0f7-4bfd-85d5-f9206e361b80" configVersion="b94799e913f5b04487729af93ce3f87500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c5bd3850-e0f7-4bfd-85d5-f9206e361b80" configVersion="de56ecf9b6e17841afaec61966247d4100000000"/>
 		<Metadata name="Language.Русский" id="57e12517-c5dd-4c8c-ae88-7968dd2802ea" configVersion="e2b556428a55b544bacbea277af082bd00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -228,6 +228,7 @@
 			<Catalog>Пользователи</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
