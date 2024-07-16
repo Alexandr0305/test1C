@@ -229,7 +229,7 @@
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
-			<DataProcessor>ПодключениеКMySQL</DataProcessor>
+			<DataProcessor>ПодключениеКБД</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
