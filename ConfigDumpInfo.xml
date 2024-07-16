@@ -17,7 +17,8 @@
 		</Metadata>
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="f0005128-4999-4bcc-b208-54b1432e7097" configVersion="517910a00dd1304fbea8d241abb6b82b00000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="f0005128-4999-4bcc-b208-54b1432e7097.0" configVersion="81ee602ab41057479ecfadd8e3e5495d00000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначения" id="d21e9af0-4b3e-47d2-ba62-7c77784aecd5" configVersion="b2a89174dd6f6b4986d7b91c7b860f5300000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="d21e9af0-4b3e-47d2-ba62-7c77784aecd5" configVersion="59b917e3c7292144878049042592edf900000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="d21e9af0-4b3e-47d2-ba62-7c77784aecd5.0" configVersion="ad5473326bef294281e6e9783e36e4c800000000"/>
 		<Metadata name="Configuration.Конфигурация" id="c5bd3850-e0f7-4bfd-85d5-f9206e361b80" configVersion="b35ccd91cdc81b45892aa5abcca337f700000000"/>
 		<Metadata name="DataProcessor.ПодключениеКMySQL" id="b46e9a2a-eeed-4716-bb67-d5c178140108" configVersion="171aece141026c4f8eac0c2af566cb1f00000000"/>
 		<Metadata name="DataProcessor.ПодключениеКMySQL.Form.Форма" id="7c65eca5-798b-4c1a-8f73-03945a822fc4" configVersion="1509e2dfa3a2254682fe7d7e9fbe200400000000"/>
